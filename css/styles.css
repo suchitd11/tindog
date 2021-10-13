@@ -1,3 +1,6 @@
+html{
+    scroll-behaviour:smooth;   
+}
 body{
     font-family: "Montserrat";
     text-align: center;
